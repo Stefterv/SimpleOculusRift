@@ -21,3 +21,5 @@
 *.app
 /build64/
 /build-creator/
+
+OculusLib/build-tmp/
